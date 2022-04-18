@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\EmployeeManagementApp.API\EmployeeManagement.Library\bin\Debug\net6.0\EmployeeManagement.Library.deps.json
+C:\Users\USER\source\repos\EmployeeManagementApp.API\EmployeeManagement.Library\bin\Debug\net6.0\EmployeeManagement.Library.runtimeconfig.json
+C:\Users\USER\source\repos\EmployeeManagementApp.API\EmployeeManagement.Library\bin\Debug\net6.0\EmployeeManagement.Library.dll
+C:\Users\USER\source\repos\EmployeeManagementApp.API\EmployeeManagement.Library\bin\Debug\net6.0\ref\EmployeeManagement.Library.dll
+C:\Users\USER\source\repos\EmployeeManagementApp.API\EmployeeManagement.Library\bin\Debug\net6.0\EmployeeManagement.Library.pdb
+C:\Users\USER\source\repos\EmployeeManagementApp.API\EmployeeManagement.Library\obj\Debug\net6.0\EmployeeManagement.Library.GlobalUsings.g.cs
+C:\Users\USER\source\repos\EmployeeManagementApp.API\EmployeeManagement.Library\obj\Debug\net6.0\EmployeeManagement.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\EmployeeManagementApp.API\EmployeeManagement.Library\obj\Debug\net6.0\EmployeeManagement.Library.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\EmployeeManagementApp.API\EmployeeManagement.Library\obj\Debug\net6.0\EmployeeManagement.Library.AssemblyInfo.cs
+C:\Users\USER\source\repos\EmployeeManagementApp.API\EmployeeManagement.Library\obj\Debug\net6.0\EmployeeManagement.Library.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\EmployeeManagementApp.API\EmployeeManagement.Library\obj\Debug\net6.0\EmployeeManagement.Library.dll
+C:\Users\USER\source\repos\EmployeeManagementApp.API\EmployeeManagement.Library\obj\Debug\net6.0\ref\EmployeeManagement.Library.dll
+C:\Users\USER\source\repos\EmployeeManagementApp.API\EmployeeManagement.Library\obj\Debug\net6.0\EmployeeManagement.Library.pdb
+C:\Users\USER\source\repos\EmployeeManagementApp.API\EmployeeManagement.Library\obj\Debug\net6.0\EmployeeManagement.Library.genruntimeconfig.cache
